@@ -1,0 +1,4 @@
+application:
+  gcp:
+    prefix: preprod
+    bucketName: BUCKET_NAME
